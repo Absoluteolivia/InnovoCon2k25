@@ -12,7 +12,7 @@ from googleapiclient.discovery import build
 
 # Configuration
 DB_FILE = "reminders.db"
-YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY", "your_api_key_here")  # Replace with your API key
+YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY", "AIzaSyBsMjEJ323isoBYoSFaRCE8Lfd2OQXzz9Y")  # Replace with your API key
 
 def init_db():
     conn = sqlite3.connect(DB_FILE)
