@@ -1,0 +1,6 @@
+Medicine Reminder Report
+
+Medicine            Date & Time              Status    
+-------------------------------------------------------
+calpol              2025-02-28 06:38         Taken     
+Pan 40              2025-02-28 10:10         Taken     
