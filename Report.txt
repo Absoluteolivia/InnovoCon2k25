@@ -1,0 +1,5 @@
+Medicine Reminder Report
+
+Medicine            Date & Time              Status    
+-------------------------------------------------------
+Calpol 650          2025-02-28 06:07         Taken     
